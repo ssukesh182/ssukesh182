@@ -1,11 +1,7 @@
 ## Hi there 👋
 Sukesh here!
 
-## 🚀 Tech Stack & Tools
-
-This project uses a modern, scalable, and AI-first technology stack designed for performance, flexibility, and rapid development.
-
----
+Aspiring AI engineer!
 
 ### 🧠 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
