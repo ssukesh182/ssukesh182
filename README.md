@@ -2,6 +2,9 @@
 Sukesh here!
 
 Aspiring AI engineer!
+Building machine learning models
+Competing in hackathons
+Building software that creates real impact
 
 ### 🧠 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
